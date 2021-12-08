@@ -7,10 +7,10 @@
 
 ```css
 body , body *{ 
-		background-color:#232323!important; 
-		color:#fff!important; 
-		border-color:#333!important;
-		box-shadow:unset!important 
+   background-color:#232323!important; 
+   color:#fff!important; 
+   border-color:#333!important;
+   box-shadow:unset!important 
 }
 ```
 
